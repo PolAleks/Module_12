@@ -19,7 +19,7 @@
                 Console.WriteLine(user.Login);
             }
 
-            Console.Write("Введите логин пользователя из вышеперечисленных списка: ");
+            Console.Write("Введите логин пользователя из вышеуказанного списка: ");
 
             string selectUser = Console.ReadLine();
 
